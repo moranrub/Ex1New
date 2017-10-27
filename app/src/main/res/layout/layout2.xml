@@ -11,7 +11,7 @@
         android:layout_marginLeft="200dp"
         android:layout_marginTop="100dp"
         android:background="@drawable/border"
-        app:srcCompat="@drawable/twitter" />
+        android:src="@drawable/twitter" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -20,7 +20,7 @@
         android:layout_marginLeft="050dp"
         android:layout_marginTop="-150dp"
         android:background="@drawable/border"
-        app:srcCompat="@drawable/turtle" />
+        android:src="@drawable/turtle" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -29,7 +29,7 @@
         android:layout_marginLeft="200dp"
         android:layout_marginTop="0dp"
         android:background="@drawable/border"
-        app:srcCompat="@drawable/pidgin" />
+        android:src="@drawable/pidgin" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -38,6 +38,6 @@
         android:layout_marginLeft="50dp"
         android:layout_marginTop="-150dp"
         android:background="@drawable/border"
-        app:srcCompat="@drawable/cat" />
+        android:src="@drawable/cat" />
 
 </LinearLayout>
